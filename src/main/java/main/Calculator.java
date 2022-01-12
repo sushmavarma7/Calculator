@@ -62,7 +62,7 @@ public class Calculator {
     	int result=0;
 //      write your code here
     	result = x/y;
-    	return result;
+    	return 0;
     }
 
 }
